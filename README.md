@@ -1,8 +1,11 @@
+![This is just a photo](Prakash%20Folder/9p-removebg-preview.png)
 # **_Heading Big_**
 ## Heading Small than big
 ***The process of constructing a knowledge-base in first-order logic is called as knowledge- engineering. In knowledge-engineering, someone who investigates a particular domain, learns important concept of that domain, and generates a formal representation of the objects, is known as knowledge engineer.
 In this topic, we will understand the Knowledge engineering process in an electronic circuit domain, whi*** 
 This is the link to [YouTube](www.youtube.com)
+
+![This is just a video](Prakash%20Folder/9p-removebg-preview.png)
 
 Here is a simple footnote[^1].
 
