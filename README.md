@@ -8,7 +8,7 @@ This is the link to [YouTube](www.youtube.com)
 
 
 
-https://user-images.githubusercontent.com/71840834/155837495-d86c4ccc-e851-4aa8-9587-9900f0491e72.mp4
+
 
 
 Here is a simple footnote[^1].
